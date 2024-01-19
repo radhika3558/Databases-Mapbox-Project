@@ -20,7 +20,7 @@ Parallel to the initial data scraping, I expanded the data collection to Wikiped
 In an effort to bring the data to life visually, I integrated the Mapbox API for advanced geospatial data representations, allowing me to create interactive and engaging maps that vividly illustrate the global distribution and impact of film directors and critics.
 
 
-## 💭 Key Findings
+## 🔎 Key Findings
 - 🇺🇸 The US, as expected, had the most number of critically acclaimed directors as well as the highest number of votes from critics
 - 🇨🇳 Movies directed by Chinese directors had the second-highest number of votes - 98 in total
 - 🇮🇷 A surprising finding was that Iranian movies were very popular with critics. Six directors were critically acclaimed, with Asghar Farhadi leading the pack with 31 votes
